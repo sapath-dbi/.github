@@ -41,13 +41,7 @@ We are committed to rigorous, reproducible and reusable research outputs, includ
 
 [Explore all DBI repositories](https://github.com/orgs/sapath-dbi/repositories).
 
-## Publications & Reproducible Research
 
-We aim to connect scientific publications with the computational resources supporting them.
-
-Our public repositories provide research software, analysis scripts, documentation, reproducible workflows and example outputs wherever available.
-
-We support transparent, reproducible and responsible computational research.
 
 ## Collaboration
 
@@ -55,13 +49,7 @@ We welcome collaboration with researchers, clinicians, bioinformaticians and sof
 
 For software questions, bug reports and technical discussions, please use the Issues section of the relevant repository.
 
-## Open Science & Responsible Research
 
-Public resources are shared subject to their respective licences and institutional requirements.
-
-Please do not upload patient-identifiable information, confidential clinical data or restricted institutional information.
-
-Research software is not a substitute for validated clinical diagnostic procedures.
 
 ---
 
