@@ -38,8 +38,6 @@ We are committed to rigorous, reproducible and reusable research outputs, includ
 | [SpliceChaser](https://github.com/sapath-dbi/SpliceChaser) | Analysis of abnormal RNA splicing |
 | [SpliceTraceR](https://github.com/sapath-dbi/SpliceTraceR) | Linking candidate variants to abnormal splice junctions |
 | [BreakChaser](https://github.com/sapath-dbi/BreakChaser) | Genomic breakpoint localisation |
-| [SingleCell_QC](https://github.com/sapath-dbi/SingleCell_QC) | Single-cell sequencing quality assessment |
-| [BCR-ABL1 Diagnostic Framework](https://github.com/sapath-dbi/BCR-ABL1-Diagnostic-Framework---HTML-report-gen) | Integrated genomic diagnostic reporting |
 
 [Explore all DBI repositories](https://github.com/orgs/sapath-dbi/repositories).
 
